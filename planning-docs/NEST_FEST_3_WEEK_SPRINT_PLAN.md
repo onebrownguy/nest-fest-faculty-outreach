@@ -907,7 +907,7 @@ Can I count on [Campus Name] to participate? Let's make this the biggest student
 Best regards,
 [Your Name]
 EDGE Team Outreach Coordinator
-[Email] | [Phone]
+[Email] | 737-206-9977
 ```
 
 ---

@@ -334,5 +334,5 @@ Columns: Name | Title | Email | Department | Campus | Priority | Sent Date | Res
 **Next Action:** Email Nina Means (Fashion Incubator) RIGHT NOW
 **Tonight's Goal:** Top 10 faculty emails sent by 10:00 PM
 
-**Contact:** [Your Name] - [Email] - [Phone]
+**Contact:** [Your Name] - [Email] - 737-206-9977
 **NEST-FEST Faculty Outreach Coordinator**

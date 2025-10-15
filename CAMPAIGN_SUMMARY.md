@@ -202,7 +202,7 @@
 1. Replace all placeholder variables in emails
    - `[REGISTRATION_LINK]` → Actual registration URL
    - `[PITCH_LINK]` → Pitch application URL
-   - `[Phone]` → Abel Rincon's phone number
+   - `737-206-9977` → Abel Rincon's phone number
 2. Convert department one-pagers to PDF
 3. Set up email tracking spreadsheet
 4. Prepare follow-up email templates
@@ -450,8 +450,8 @@ faculty-outreach-emails/
 ### Primary Contact
 **Abel Rincon**
 President, EDGE Team
-Email: edge.team@austincc.edu
-Phone: [TO BE ADDED]
+Email: abel.rincon@g.austincc.edu
+Phone: 737-206-9977
 
 ### Key ACC Administrative Contacts
 - Student Life Office: studentlife@austincc.edu

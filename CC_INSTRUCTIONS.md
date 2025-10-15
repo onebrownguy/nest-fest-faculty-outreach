@@ -13,7 +13,7 @@ When sending faculty outreach emails for NEST-FEST, **always include our ACC fac
 - `akehoe1@austincc.edu` - Dr. Andrea Kehoe (Faculty Supervisor, Head of Product, Office of the Future)
 
 **Optional CC (Recommended):**
-- `edge.team@austincc.edu` - EDGE Team inbox
+- `abel.rincon@g.austincc.edu` - EDGE Team inbox
 - Other EDGE team members coordinating the campaign (Carol, Faiza, Joshua, Cullen)
 
 ---
@@ -22,7 +22,7 @@ When sending faculty outreach emails for NEST-FEST, **always include our ACC fac
 
 ```
 To: nmeans@austincc.edu
-CC: harshal.shah@austincc.edu, akehoe1@austincc.edu, edge.team@austincc.edu
+CC: harshal.shah@austincc.edu, akehoe1@austincc.edu, abel.rincon@g.austincc.edu
 Subject: NEST-FEST Nov 7 - Fashion Incubator Partnership Opportunity
 
 [Email body from template...]
@@ -34,7 +34,7 @@ Student Lead, EDGE (Entrepreneurship Development & Growth Events)
 Entrepreneurship & Innovation Academy
 Austin Community College - Office of the Future
 
-edge.team@austincc.edu
+abel.rincon@g.austincc.edu
 737-206-9977
 
 **Program Director:** Harshal Shah (harshal.shah@austincc.edu, 512-931-1791)
@@ -104,7 +104,7 @@ respond to all or reach out directly, whatever works best for you!
 - [ ] Faculty email in "To:" field
 - [ ] `harshal.shah@austincc.edu` in "CC:" field
 - [ ] `akehoe1@austincc.edu` in "CC:" field
-- [ ] `edge.team@austincc.edu` in "CC:" field (optional but recommended)
+- [ ] `abel.rincon@g.austincc.edu` in "CC:" field (optional but recommended)
 - [ ] CC note added at the end of email
 - [ ] Email reviewed for professionalism
 - [ ] All links verified (nest-fest.org, Discord, calendar)

@@ -6,7 +6,7 @@
 - **Event:** NEST-FEST 2025 - November 7, 2025, 2:00-6:00 PM
 - **Location:** Presentation Hall, ACC Riverside Campus
 - **Campaign Manager:** Abel Rincon, EDGE Team President
-- **Contact:** edge.team@austincc.edu
+- **Contact:** abel.rincon@g.austincc.edu
 
 ---
 
@@ -156,8 +156,8 @@ All files in: `tier3-general/` folder
 
 1. `[REGISTRATION_LINK]` → Actual event registration URL
 2. `[PITCH_LINK]` → Pitch competition application URL
-3. `[Phone]` → Abel Rincon's phone number
-4. `edge.team@austincc.edu` → Confirm correct email address
+3. `737-206-9977` → Abel Rincon's phone number
+4. `abel.rincon@g.austincc.edu` → Confirm correct email address
 
 ---
 
@@ -229,7 +229,7 @@ Would you have just 5 minutes for a quick call to discuss how we can make this v
 Best regards,
 Abel Rincon
 EDGE Team President
-edge.team@austincc.edu
+abel.rincon@g.austincc.edu
 ```
 
 ### Week 3-4 Final Push (All Faculty)
@@ -243,7 +243,7 @@ Final reminder that NEST-FEST is happening on Thursday, November 7th at ACC Rive
 
 If you'd like to share this opportunity with your students, here's a quick 30-second announcement you can use:
 
-"EDGE Team is hosting NEST-FEST on Nov 7th - a startup pitch competition at Riverside Campus. Free for students, cash prizes, great learning opportunity. Registration link in Canvas."
+"EDGE Team is hosting NEST-FEST on Nov 7th - a startup pitch competition at Riverside Campus. Free for students, recognition and awards, great learning opportunity. Registration link in Canvas."
 
 Thank you for supporting ACC students!
 
@@ -316,8 +316,8 @@ Abel Rincon
 
 ### EDGE Team
 - **Abel Rincon** - President
-- Email: edge.team@austincc.edu
-- Phone: [TO BE ADDED]
+- Email: abel.rincon@g.austincc.edu
+- Phone: 737-206-9977
 
 ### ACC Administration Support
 - **Student Life Office:** studentlife@austincc.edu
@@ -356,7 +356,7 @@ faculty-outreach-emails/
 ## Campaign Completion Checklist
 
 ### Pre-Launch
-- [ ] Replace all placeholder variables ([REGISTRATION_LINK], [PITCH_LINK], [Phone])
+- [ ] Replace all placeholder variables ([REGISTRATION_LINK], [PITCH_LINK], 737-206-9977)
 - [ ] Test email formatting in email client
 - [ ] Create PDF versions of department one-pagers
 - [ ] Set up email tracking spreadsheet

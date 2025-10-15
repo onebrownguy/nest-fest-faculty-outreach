@@ -510,5 +510,5 @@
 **Last Updated:** October 15, 2025
 **Next Action:** Begin TIER 1 invitations TODAY (Oct 15)
 
-**Contact:** [Your Name] - [Email] - [Phone]
+**Contact:** [Your Name] - [Email] - 737-206-9977
 **NEST-FEST VIP Coordinator**

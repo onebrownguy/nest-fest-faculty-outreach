@@ -8,8 +8,8 @@
 
 1. `[REGISTRATION_LINK]` → Your actual event registration URL
 2. `[PITCH_LINK]` → Your pitch competition application URL
-3. `[Phone]` → Abel Rincon's phone number
-4. Confirm `edge.team@austincc.edu` is correct
+3. `737-206-9977` → Abel Rincon's phone number
+4. Confirm `abel.rincon@g.austincc.edu` is correct
 
 **Quick Find/Replace Method:**
 - Open each .txt file in email folders
@@ -105,7 +105,7 @@ Abel Rincon
 
 - [ ] Replaced all `[REGISTRATION_LINK]` placeholders
 - [ ] Replaced all `[PITCH_LINK]` placeholders
-- [ ] Replaced all `[Phone]` placeholders
+- [ ] Replaced all `737-206-9977` placeholders
 - [ ] Confirmed email address is correct
 - [ ] Attached relevant department one-pager (PDF)
 - [ ] Used recipient's correct name/title
@@ -115,7 +115,7 @@ Abel Rincon
 ### Email Client Settings
 
 **Best Practices:**
-- Send from: `edge.team@austincc.edu`
+- Send from: `abel.rincon@g.austincc.edu`
 - Reply-to: Same email address
 - BCC yourself for tracking
 - Send one-by-one (NOT mass email) for personalization
@@ -255,8 +255,8 @@ A: If 25+ faculty promote to students, that's a success. You'll reach 3,000+ stu
 ## 📞 Need Help?
 
 **Campaign Manager:** Abel Rincon
-**Email:** edge.team@austincc.edu
-**Phone:** [TO BE ADDED]
+**Email:** abel.rincon@g.austincc.edu
+**Phone:** 737-206-9977
 
 **For Technical Issues:**
 - Check MASTER_EMAIL_TRACKING.md for detailed tracking

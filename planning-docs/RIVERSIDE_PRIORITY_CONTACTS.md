@@ -267,5 +267,5 @@
 **Last Updated:** October 15, 2025
 **Next Review:** Daily until venue confirmed
 
-**Urgent Contact:** [Your Name] - [Phone] - [Email]
+**Urgent Contact:** [Your Name] - 737-206-9977 - [Email]
 **NEST-FEST Campaign Lead**

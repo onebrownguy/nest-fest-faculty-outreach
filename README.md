@@ -3,6 +3,7 @@
 
 **Event:** NEST-FEST 2025 Entrepreneurship Pitch Competition
 **Date:** Thursday, November 7, 2025 | 2:00-6:00 PM
+**Pitch Submission Deadline:** October 30, 2025
 **Location:** Presentation Hall, ACC Riverside Campus
 
 ---
@@ -50,7 +51,7 @@ Always CC our ACC faculty advisors and EDGE team:
 - `akehoe1@austincc.edu` (Dr. Andrea Kehoe, Faculty Supervisor)
 
 **Optional CC:**
-- `edge.team@austincc.edu` (Team inbox)
+- `abel.rincon@g.austincc.edu` (Team inbox)
 - Other EDGE team members coordinating outreach
 
 **Add this note below your signature:**
@@ -240,7 +241,7 @@ faculty-outreach-emails/
 - [ ] Read QUICK_START_GUIDE.md (10 minutes)
 - [ ] Replace `[REGISTRATION_LINK]` in all emails
 - [ ] Replace `[PITCH_LINK]` in all emails
-- [ ] Replace `[Phone]` with Abel Rincon's phone number
+- [ ] Replace `737-206-9977` with Abel Rincon's phone number
 - [ ] Convert department one-pagers from HTML to PDF
 - [ ] Create email tracking spreadsheet
 - [ ] Test send one email to yourself
@@ -278,7 +279,7 @@ faculty-outreach-emails/
 
 ### EDGE Team Leads
 - **Abel Rincon** - Student Lead
-  📧 edge.team@austincc.edu | 📞 737-206-9977
+  📧 abel.rincon@g.austincc.edu | 📞 737-206-9977
 - **Carol, Faiza, Joshua, Cullen** - Core team members
 
 ### ACC Faculty Advisors

@@ -192,7 +192,7 @@ Send in order: Tier 1 first, then Tier 2, then Tier 3.
 **Ask in the EDGE Discord:** https://discord.gg/EgjuFMzV
 
 **Contact Abel:**
-- 📧 edge.team@austincc.edu
+- 📧 abel.rincon@g.austincc.edu
 - 📱 737-206-9977
 
 **Tag the team:** `@everyone` in the #nest-fest channel
