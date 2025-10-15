@@ -1,0 +1,51 @@
+# NEST-FEST Faculty Outreach - Private Repository
+# Sensitive Information Protection
+
+# Personal contact information
+*.csv
+*.xlsx
+*contacts.json
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node modules (if any)
+node_modules/
+
+# Build outputs
+dist/
+build/
+*.pdf
+
+# Backup files
+*.bak
+*.backup
+*-backup.*
+
+# Email tracking data (keep templates, not sent email logs)
+*sent-log.md
+*tracking-responses.md
