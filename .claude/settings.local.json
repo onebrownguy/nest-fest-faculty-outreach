@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh api repos/onebrownguy/nest-fest-faculty-outreach/pages)",
+      "Bash(gh auth status)",
+      "Bash(gh repo view onebrownguy/nest-fest-faculty-outreach --json name,owner,isPrivate,url,defaultBranchRef)",
+      "Bash(gh api user --jq '.plan.name')",
+      "Bash(gh repo edit onebrownguy/nest-fest-faculty-outreach --visibility public)",
+      "Bash(gh repo view onebrownguy/nest-fest-faculty-outreach --json isPrivate --jq '.isPrivate')",
+      "WebFetch(domain:catalog.austincc.edu)",
+      "WebSearch",
+      "Bash(xargs -I {} basename {} _EMAIL.txt)",
+      "Read(//d/Portfolio/RAG ACC AI Faculty Committee/**)",
+      "Bash(awk:*)",
+      "Bash(gh api:*)",
+      "Bash(for file in tier1-critical/*.txt tier2-high/*.txt tier3-general/*.txt)",
+      "Bash(do if [ -f \"$file\" ])",
+      "Bash(head:*)",
+      "Bash(fi)",
+      "Bash(done)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
