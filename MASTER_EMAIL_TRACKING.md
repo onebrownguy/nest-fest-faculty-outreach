@@ -2,11 +2,16 @@
 ## Master Email Tracking & Send Guide
 
 **Campaign Overview:**
-- **Total Faculty:** 78 personalized emails
+- **Total Faculty:** 109 personalized emails (65 original + 44 expansion)
 - **Event:** NEST-FEST 2025 - November 7, 2025, 2:00-6:00 PM
 - **Location:** Presentation Hall, ACC Riverside Campus
 - **Campaign Manager:** Abel Rincon, EDGE Team President
 - **Contact:** abel.rincon@g.austincc.edu
+
+**Campaign Expansion (October 2025):**
+- Original campaign: 65 faculty across Business, CS/IT, Hospitality, Fashion
+- Expansion: +44 faculty from Economics, Communication Studies, Engineering
+- New departments: Economics (6), Communication Studies (11), Engineering (5), additional CS/IT (19), Real Estate (1), Management (1), International Business (1)
 
 ---
 
