@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NEST-FEST 2025 - Hospitality Management & Culinary Arts</title>
+    <style>
+        @page {
+            size: 8.5in 11in;
+            margin: 0;
+        }
+
+        :root {
+            --acc-purple: #512698;
+            --acc-purple-dark: #3a1c6b;
+            --acc-gold: #FDB913;
+            --text-dark: #1f2937;
+            --text-light: #6b7280;
+            --bg-light: #f9fafb;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.4;
+            color: var(--text-dark);
+            width: 8.5in;
+            max-width: 8.5in;
+            margin: 0 auto;
+            background: white;
+        }
+
+        .page {
+            width: 8.5in;
+            min-height: 11in;
+            padding: 0.5in;
+            background: white;
+        }
+
+        .header {
+            background: linear-gradient(135deg, var(--acc-purple) 0%, var(--acc-purple-dark) 100%);
+            color: white;
+            padding: 1rem;
+            text-align: center;
+            border-radius: 8px;
+            margin-bottom: 0.75rem;
+        }
+
+        .header h1 {
+            font-size: 1.75rem;
+            margin-bottom: 0.25rem;
+            font-weight: 700;
+        }
+
+        .header .subtitle {
+            font-size: 0.95rem;
+            opacity: 0.95;
+        }
+
+        .event-details {
+            background: var(--acc-gold);
+            padding: 0.5rem;
+            border-radius: 6px;
+            margin-bottom: 0.75rem;
+            text-align: center;
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+
+        .event-details p {
+            display: inline;
+            margin: 0 0.5rem;
+        }
+
+        .section {
+            margin: 0.75rem 0;
+        }
+
+        .section h2 {
+            color: var(--acc-purple);
+            font-size: 1.1rem;
+            margin-bottom: 0.5rem;
+            border-bottom: 2px solid var(--acc-gold);
+            padding-bottom: 0.25rem;
+        }
+
+        .section h3 {
+            color: var(--acc-purple);
+            font-size: 0.95rem;
+            margin: 0.5rem 0 0.25rem 0;
+        }
+
+        .section p {
+            font-size: 0.85rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .benefits-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0.5rem;
+            margin: 0.5rem 0;
+        }
+
+        .benefit-card {
+            background: var(--bg-light);
+            padding: 0.5rem;
+            border-radius: 6px;
+            border-left: 3px solid var(--acc-purple);
+        }
+
+        .benefit-card h4 {
+            color: var(--acc-purple);
+            font-size: 0.9rem;
+            margin-bottom: 0.25rem;
+        }
+
+        .benefit-card ul {
+            list-style: none;
+            padding-left: 0;
+            font-size: 0.75rem;
+        }
+
+        .benefit-card li {
+            padding: 0.15rem 0 0.15rem 1rem;
+            position: relative;
+        }
+
+        .benefit-card li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: var(--acc-purple);
+            font-weight: bold;
+        }
+
+        .highlight-box {
+            background: linear-gradient(135deg, var(--acc-purple) 0%, var(--acc-purple-dark) 100%);
+            color: white;
+            padding: 0.75rem;
+            border-radius: 6px;
+            margin: 0.75rem 0;
+            font-size: 0.85rem;
+        }
+
+        .highlight-box h3 {
+            color: var(--acc-gold);
+            margin: 0 0 0.25rem 0;
+            font-size: 0.95rem;
+        }
+
+        .faculty-section {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0.5rem;
+            margin: 0.5rem 0;
+        }
+
+        .script-box {
+            background: var(--bg-light);
+            padding: 0.5rem;
+            border-radius: 6px;
+            font-size: 0.7rem;
+        }
+
+        .script-box h4 {
+            color: var(--acc-purple);
+            font-size: 0.85rem;
+            margin-bottom: 0.25rem;
+        }
+
+        .cta-section {
+            background: var(--acc-purple);
+            color: white;
+            padding: 0.75rem;
+            border-radius: 8px;
+            text-align: center;
+            margin: 0.75rem 0;
+        }
+
+        .cta-section h2 {
+            color: var(--acc-gold);
+            border: none;
+            font-size: 1.1rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .cta-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0.5rem;
+            margin: 0.5rem 0;
+        }
+
+        .cta-box {
+            text-align: center;
+        }
+
+        .cta-box h3 {
+            color: var(--acc-gold);
+            font-size: 0.85rem;
+            margin-bottom: 0.25rem;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background: var(--acc-gold);
+            color: var(--text-dark);
+            padding: 0.4rem 1rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 0.85rem;
+        }
+
+        .cta-box p {
+            font-size: 0.7rem;
+            margin-top: 0.25rem;
+        }
+
+        .links-section {
+            margin-top: 0.5rem;
+            padding-top: 0.5rem;
+            border-top: 1px solid rgba(255,255,255,0.2);
+            font-size: 0.7rem;
+        }
+
+        .links-section h3 {
+            color: var(--acc-gold);
+            font-size: 0.8rem;
+            margin-bottom: 0.25rem;
+        }
+
+        .links-section a {
+            color: white;
+            text-decoration: underline;
+            margin: 0 0.25rem;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 0.5rem;
+            font-size: 0.7rem;
+            color: var(--text-light);
+            border-top: 1px solid #e5e7eb;
+            margin-top: 0.75rem;
+        }
+
+        @media print {
+            body {
+                width: 8.5in;
+                print-color-adjust: exact;
+                -webkit-print-color-adjust: exact;
+            }
+            .page {
+                page-break-after: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="page">
+        <div class="header">
+            <h1>🍽️ NEST-FEST 2025</h1>
+            <p class="subtitle">Entrepreneurship Festival & Startup Pitch Competition - Hospitality & Culinary One-Pager</p>
+        </div>
+
+        <div class="event-details">
+            <p>📅 Thursday, November 7, 2025</p>
+            <p>⏰ 2:00-5:00 PM Pitches | 5:00-6:00 PM Reception</p>
+            <p>📍 ACC Riverside Campus</p>
+            <p style="color: #dc2626;">⏰ DEADLINE: October 30, 2025</p>
+            <p>🎓 FREE for ACC students</p>
+        </div>
+
+        <div class="section">
+            <h2>Why Hospitality & Culinary Students Should Attend</h2>
+            <p>Austin's vibrant food scene is built on entrepreneurs who started with food trucks, catering companies, and unique concepts. Many hospitality and culinary graduates become business owners. NEST-FEST showcases these entrepreneurial paths and the business strategy behind successful food ventures.</p>
+
+            <div class="benefits-grid">
+                <div class="benefit-card">
+                    <h4>🍕 Food Entrepreneurship</h4>
+                    <ul>
+                        <li>Food trucks & mobile catering models</li>
+                        <li>Restaurant concepts & transitions</li>
+                        <li>Specialty catering (dietary, cultural)</li>
+                        <li>Pop-up dining & unique experiences</li>
+                    </ul>
+                </div>
+
+                <div class="benefit-card">
+                    <h4>🎉 Event Planning Businesses</h4>
+                    <ul>
+                        <li>Starting event planning firms</li>
+                        <li>Corporate event coordination</li>
+                        <li>Wedding & special event services</li>
+                        <li>Event production & venue mgmt</li>
+                    </ul>
+                </div>
+
+                <div class="benefit-card">
+                    <h4>🏨 Hospitality Services</h4>
+                    <ul>
+                        <li>Private chef & in-home catering</li>
+                        <li>Vacation rental management</li>
+                        <li>Specialty food products & retail</li>
+                        <li>Food hall & shared kitchen concepts</li>
+                    </ul>
+                </div>
+
+                <div class="benefit-card">
+                    <h4>👨‍🍳 Culinary Entrepreneurship</h4>
+                    <ul>
+                        <li>Chef to restaurant owner transition</li>
+                        <li>Food product development & wholesale</li>
+                        <li>Catering business fundamentals</li>
+                        <li>Building brand & customer base</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="highlight-box">
+            <h3>Real-World Learning Experience</h3>
+            <p>NEST-FEST provides experiential learning outside traditional classrooms. Students see concepts in action, network with professionals, and gain inspiration from peers accomplishing ambitious goals. Austin's food scene needs your entrepreneurial vision!</p>
+        </div>
+
+        <div class="section">
+            <h2>For Faculty: Easy Class Announcement</h2>
+            <div class="faculty-section">
+                <div class="script-box">
+                    <h4>📋 60-Second Script</h4>
+                    <p><em>"Hospitality and culinary students - if you've ever thought about opening your own restaurant, food truck, or event planning business, NEST-FEST on November 7th shows you how. Austin's food scene is built on entrepreneurs just like you. See real pitches and learn what it takes beyond cooking skills. Free to attend, registration at nest-fest.org."</em></p>
+                </div>
+
+                <div class="script-box">
+                    <h4>📝 Canvas Announcement</h4>
+                    <p><strong>Subject:</strong> Professional Development - NEST-FEST Nov 7</p>
+                    <p style="margin-top: 0.25rem;">I encourage you to attend NEST-FEST on November 7th at ACC Riverside (2:00-6:00 PM). This startup pitch competition provides valuable learning experiences for hospitality and culinary entrepreneurs. FREE for ACC students.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="cta-section">
+            <h2>🚀 Submit Your Idea by October 30th!</h2>
+            <p style="font-size: 0.85rem; margin-bottom: 0.5rem;">After submitting, connect with EDGE team on Discord to prepare your presentation</p>
+
+            <div class="cta-grid">
+                <div class="cta-box">
+                    <h3>📋 Submit Your Idea</h3>
+                    <a href="https://nest-fest.org/" class="cta-button" target="_blank">Submit by Oct 30</a>
+                    <p>Deadline: October 30, 2025</p>
+                </div>
+                <div class="cta-box">
+                    <h3>💬 Connect with EDGE</h3>
+                    <a href="https://discord.gg/EgjuFMzV" class="cta-button" target="_blank">Join Discord</a>
+                    <p>Get mentorship & prepare pitch</p>
+                </div>
+            </div>
+
+            <div class="links-section">
+                <h3>All EDGE Team Links</h3>
+                <p>
+                    <a href="https://nest-fest.org/" target="_blank">🌐 Website</a>
+                    <a href="https://discord.gg/EgjuFMzV" target="_blank">💬 Discord</a>
+                    <a href="https://austincc.campuslabs.com/engage/organization/edgeteam" target="_blank">📱 Student Org</a>
+                    <a href="https://calendar.app.google/rPFQ4o2k56fsKZrM6" target="_blank">📅 Schedule</a>
+                </p>
+                <p style="margin-top: 0.25rem;">📧 abel.rincon@g.austincc.edu | 📞 737-206-9977</p>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p><strong>EDGE Team</strong> | Austin Community College | Empowering ACC students through entrepreneurship education</p>
+        </div>
+    </div>
+</body>
+</html>
